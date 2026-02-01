@@ -19,3 +19,21 @@ This repository contains all tasks completed for the Samsung Internship position
 - Written in Markdown format
 
 ## Repository Structure
+Samsung-Intern-Assessment/
+│
+├── CalculatorApp/
+│   ├── app/
+│   ├── build.gradle
+│   ├── settings.gradle
+│   └── README.md
+│
+├── SensorApp/
+│   ├── app/
+│   ├── build.gradle
+│   ├── settings.gradle
+│   └── README.md
+│
+├── Task-3-Blog/
+│   └── Sensor-Data-Reader-Blog.md
+│
+└── README.md
